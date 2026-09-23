@@ -85,6 +85,4 @@ Não é necessário instalar bibliotecas externas — o projeto usa só a biblio
 
 ## Observação
 
-Este README documenta apenas a parte de implementação em Python (menu, funções, persistência e API) referente à Sprint 4. Caso o enunciado da Sprint 4 exija também uma documentação técnica em PDF separada, ela deve ser adicionada à entrega além deste README.
-
 Projeto desenvolvido para fins acadêmicos - **FIAP Sprint 4**.
