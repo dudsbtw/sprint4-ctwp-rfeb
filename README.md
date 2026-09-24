@@ -58,7 +58,7 @@ Com base no feedback recebido na Sprint 3, além da persistência e da API:
 JOVI_Sprint4/
 ├── main.py
 ├── README.md
-└── documentacao_jovi_sprint3.pdf
+└── documentacao_jovi_sprint4.pdf
 ```
 
 ## Como executar
@@ -85,6 +85,6 @@ Não é necessário instalar bibliotecas externas — o projeto usa só a biblio
 
 ## Observação
 
-Este README documenta apenas a parte de implementação em Python (menu, funções, persistência e API) referente à Sprint 4. Caso o enunciado da Sprint 4 exija também uma documentação técnica em PDF separada, ela deve ser adicionada à entrega além deste README.
+A documentação técnica completa (introdução, objetivos, descrição do projeto, organização do programa e justificativa das alterações em relação à Sprint 3) está em `documentacao_jovi_sprint4.pdf`.
 
 Projeto desenvolvido para fins acadêmicos - **FIAP Sprint 4**.
